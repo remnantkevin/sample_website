@@ -6,10 +6,12 @@ Strikethrough this ~~word~~
 
 1. First in a list
 2. Second in a list
-  *unordered list item
+  * unordered list item
 
-[I'm a link to google](www.google.com "title text")
++ list item
 
-[this is a link to reddit][kevin is cool]
+[I'm a link to google](http://www.google.com "title text")
 
-[kevin is cool](www.reddit.com)
+```java
+System.out.println("Hello");
+```
